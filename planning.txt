@@ -1,0 +1,48 @@
+Convert
+
+Data []
+mail -user
+mail-service provider mail
+success-collect 
+reject-failed mail 
+
+1.convertFormValue contain all key value input pairs
+2.getCurrencyValue api call to get all results corresponding to form value 
+3.to get totalResult = to value data * amount writed in convertFormValue amount
+4.currencyInput sending from and to as props and convertFormValue on selecting
+appending values in it
+
+100-amount 
+from-usd
+to-INR 
+current rate-83 1 USD par 1 INR ka rate(FROM/TO)
+sum=8300
+
++
+
+100-amount 
+from-INR
+to-Riyadh dollar
+current rate- 1 INR par 1 Riyadh dollar ka rate(FROM/TO)
+sum=8300+100=8400
+
+add validations 
+edit 
+delete
+
+yet to fix 
+phone convert
+
+ui changes
+total 
+color change of checkout 
+protected route
+
+total 
+from aur to me country change 
+
+apply
+
+Spearheaded the development of the user interface for a task management application, employing React JS to design and implement visually appealing and interactive features; the dynamic interface led to a 50% decrease in task processing time for users.
+
+will complete 1st lecture of ds

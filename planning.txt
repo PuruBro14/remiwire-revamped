@@ -46,3 +46,5 @@ apply
 Spearheaded the development of the user interface for a task management application, employing React JS to design and implement visually appealing and interactive features; the dynamic interface led to a 50% decrease in task processing time for users.
 
 will complete 1st lecture of ds
+
+blocked account,
